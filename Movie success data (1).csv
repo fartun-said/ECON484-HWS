@@ -1,0 +1,111 @@
+Title,Month,Month code,Year,IMDB rating,Genre,Genre code,Has Star?,Has star code,Budget,Revenue,Profit,Succes,Success code,Dataset
+Barbie,July,7,2023,5/10,Fantasy,7,Yes,1,145000000,1400000000,1255000000,Yes,1,train
+The super mario movie,April,4,2023,7/10,Musical,3,Yes,1,100000000,1350000000,1250000000,Yes,1,train
+Oppenheimer,July,7,2023,8/10,Biography,2,Yes,1,100000000,975000000,875000000,Yes,1,train
+Guardians of the galaxy vol 3,May,5,2023,7/10,Action,12,Yes,1,250000000,845500000,595500000,Yes,1,train
+Fast X,May,5,2023,5/10,Action,12,Yes,1,340000000,710000000,370000000,Yes,1,train
+Spider-man: spider-verse,June,6,2023,8/10,Fantasy,7,Yes,1,90000000,690000000,600000000,Yes,1,train
+Wonka,December ,12,2023,7/10,Musical,3,Yes,1,125000000,630000000,505000000,Yes,1,train
+Mission impossible- dead reckoning,July,7,2023,7/10 ,Action,12,Yes,1,400000000,570000000,170000000,Yes,1,train
+The little mermaid,May,5,2023,7/10,Fantasy,7,Yes,1,240000000,560000000,320000000,Yes,1,train
+No more bets,August,8,2023,6/10,Thriller,5,No,0,30000000,532000000,502000000,Yes,1,train
+Elemental,June,6,2023,7/10,Comedy,11,No,0,200000000,496000000,296000000,Yes,1,train
+Lost in the stars,February ,2,2023,6/10,Drama,9,Yes,1,90000000,487000000,397000000,Yes,1,train
+Ant-man quantumania,February ,2,2023,6/10,Fantasy,7,Yes,1,200000000,476000000,276000000,Yes,1,train
+Transformers:rise of the beasts,June,6,2023,6/10,Sci-Fi,4,No,0,195000000,441000000,246000000,Yes,1,train
+John wick 4,March ,3,2023,8/10,Action,12,Yes,1,100000000,440000000,340000000,Yes,1,train
+Aquaman and the lost kingdom,December,12,2023,6/10,Action,12,Yes,1,250000000,439000000,189000000,Yes,1,train
+Meg 2,August,8,2023,5/10,Action,12,Yes,1,130000000,397000000,267000000,Yes,1,train
+Indiana jones and the dial of destiny,June,6,2023,6/10,Action,12,Yes,1,295000000,383000000,88000000,Yes,1,train
+Creation of the gods 1,July,7,2023,6/10,Fantasy,7,No,0,110000000,373000000,263000000,Yes,1,train
+The hunger games: songbirds,November ,11,2023,7/10,Sci-Fi,4,Yes,1,100000000,348000000,248000000,Yes,1,train
+Migration,December,12,2023,6/10,Animation,8,Yes,1,70000000,300000000,230000000,Yes,1,train
+Five nights at freddys,October,10,2023,5/10,Horror,1,No,0,20000000,291000000,271000000,Yes,1,train
+The boy and the heron,July,7,2023,7/10,Animation,8,No,0,50000000,282000000,232000000,Yes,1,train
+Creed 3,March,3,2023,7/10,Drama,9,Yes,1,120000000,276000000,156000000,Yes,1,train
+The flash,June,6,2023,6/10,Fantasy,7,Yes,1,200000000,271000000,71000000,Yes,1,train
+The Nun 2,September,9,2023,5/10,Horror,1,Yes,1,38000000,269000000,268999999,Yes,1,train
+Taylor Swift: The Eras tour,October,10,2023,7/10,Documentary,13,Yes,1,15000000,261000000,246000000,Yes,1,train
+Sound of freedom,July,7,2023,7/10,Biography,2,No,0,14000000,250000000,236000000,Yes,1,train
+Napoleon,November,11,2023,6/10,Biography,2,Yes,1,200000000,221000000,21000000,No,0,train
+Anyone but you,December,12,2023,6/10,Romance,10,Yes,1,25000000,220000000,195000000,Yes,1,train
+Trolls band together,November,11,2023,6/10,Animation,8,Yes,1,75000000,209000000,134000000,Yes,1,train
+The marvels,November,11,2023,5/10,Fantasy,7,Yes,1,274000000,206000000,-68000000,No,0,train
+Dungeons and Dragons,March,3,2023,7/10,Fantasy,7,Yes,1,150000000,205000000,55000000,Yes,1,train
+Paw patrol: the mighty movie,September ,9,2023,5/10,Animation,8,No,0,50000000,205000000,155000000,Yes,1,train
+The Equalizer 3,September ,9,2023,6/10,Action,12,Yes,1,70000000,191000000,121000000,Yes,1,train
+Under the light,October,10,2023,6/10,Documentary,13,No,0,20000000,189000000,169000000,Yes,1,train
+Insidious: the red door,July,7,2023,6/10,Horror,1,Yes,1,16000000,189000000,173000000,Yes,1,train
+Teenage mutant ninja turtles:mayhem,August,8,2023,7/10,Animation,8,No,0,70000000,181000000,111000000,Yes,1,train
+Scream IV,March,3,2023,6/10,Horror,1,No,0,35000000,166000000,131000000,Yes,1,train
+Godspeed,July,7,2023,6/10,Action,12,No,0,85000000,165000000,80000000,Yes,1,train
+Johnny keep walking,November,11,2023,6/10,Drama,9,No,0,80000000,159000000,79000000,Yes,1,train
+Killers of the flower moon,October ,10,2023,7/10,Crime,14,Yes,1,200000000,158000000,-42000000,No,0,train
+Evil dead rise,April,4,2023,6/10,Horror,1,No,0,20000000,147000000,127000000,Yes,1,train
+The Ex-files 4: Marriage plan,January ,1,2023,5/10,Romance,10,No,0,11000000,141000000,130000000,Yes,1,train
+Shazam! Fury of the gods,March,3,2023,5/10,Fantasy,7,No,0,110000000,134000000,24000000,No,0,train
+Deep sea,December ,12,2023,7/10,Animation,8,No,0,27000000,133000000,106000000,Yes,1,train
+Blue beatle,August,8,2023,6/10,Action,12,No,0,104000000,130000000,26000000,No,0,train
+Gran turismo,August,8,2023,7/10,Action,12,No,0,60000000,122000000,62000000,Yes,1,train
+Poor things,September ,9,2023,7/10,Drama,9,Yes,1,20000000,117600000,97600000,Yes,1,train
+Haunted mansion,July ,7,2023,5/10,Horror,1,No,0,150000000,177450000,27450000,No,0,train
+Godzilla minus one,November,11,2023,7/10,Action,12,No,0,10000000,113000000,103000000,Yes,1,train
+Pathaan,January ,1,2023,5/10,Action,12,Yes,1,27000000,112500000,85500000,Yes,1,train
+Saw x,September ,9,2023,6/10,Horror,1,No,0,13000000,112000000,99000000,Yes,1,train
+The creator,September ,9,2023,7/10,Sci-Fi,4,No,0,80000000,104000000,24000000,No,0,train
+Animal,December ,12,2023,6/10,Action,12,Yes,1,12000000,92000000,80000000,Yes,1,train
+Talk to me,July,7,2023,7/10,Horror,1,No,0,4000000,91000000,87000000,Yes,1,train
+Air,April,4,2023,7/10,Drama,9,Yes,1,90000000,90060106,60106,No,0,train
+Cocaine bear,February ,2,2023,6/10,Horror,1,No,0,30000000,88000000,58000000,Yes,1,train
+No hard feelings,June,6,2023,6/10,Romance,10,Yes,1,45000000,87000000,42000000,No,0,train
+The pope's exorcist,April,4,2023,6/10,Horror,1,Yes,1,18000000,76000000,58000000,Yes,1,train
+Plane,January ,1,2023,6/10,Action,12,No,0,25000000,74000000,49000000,No,0,train
+The color purple,December ,12,2023,6/10,Musical,3,Yes,1,100000000,68000000,-32000000,No,0,train
+The boogeyman,June,6,2023,5/10,Horror,1,No,0,35000000,67000000,32000000,No,0,train
+65,March,3,2023,5/10,Sci-Fi,4,No,0,45000000,60000000,15000000,No,0,train
+Magic mike's last dance,February ,2,2023,5/10,Comedy,11,Yes,1,45000000,57000000,12000000,No,0,train
+The boys in the boat,December,12,2023,7/10 ,Biography,2,No,0,40000000,55000000,15000000,No,0,train
+Knock at the cabin,February ,2,2023,6/10,Horror,1,Yes,1,20000000,54750000,34750000,No,0,train
+Mummies,February ,2,2023,5/10,Animation,8,No,0,12000000,54450000,42450000,No,0,train
+Jesus revolution,February ,2,2023,7/10,Drama,9,No,0,15000000,54250000,39250000,No,0,train
+Asteroid city,June,6,2023,6/10,Sci-Fi,4,Yes,1,25000000,53850000,28850000,No,0,train
+The zone of interest,December,12,2023,7/10,History,15,No,0,15000000,52650000,37650000,No,0,train
+There's still tomorrow,October ,10,2023,7/10,Drama,9,Yes,1,9000000,50000000,41000000,No,0,train
+Operation fortune,March,3,2023,6/10,Action,12,Yes,1,50000000,48950000,-1050000,No,0,train
+Missing,January,1,2023,7/10,Mystery,6,No,0,7000000,48750000,41750000,No,0,train
+Thanksgiving,December,12,2023,6/10,Horror,1,No,0,15000000,46450000,31450000,No,0,train
+The holdovers,October,10,2023,8/10,Comedy,11,No,0,13000000,45700000,32700000,No,0,train
+The iron claw,November,11,2023,6/10,Biography,2,Yes,1,45000000,45200000,200000,No,0,train
+Renaissance: A film by Beyoncè,December,12,2023,8/10,Documentary,13,Yes,1,10000000,43950000,33950000,No,0,train
+Ferrari,January ,1,2023,6/10,Biography,2,Yes,1,100000000,43950000,-56050000,No,0,train
+Past lives,June,6,2023,8/10,Romance,10,No,0,12000000,42650000,30650000,No,0,train
+80 for brady,February,2,2023,5/10,Comedy,11,Yes,1,28000000,40480000,12480000,No,0,train
+Miraculous: ladybug and cat noir,July,7,2023,6/10,Animation,8,No,0,80000000,40464000,-39536000,No,0,train
+My big fat greek wedding 3,September,9,2023,5/10,Romance,10,No,0,15000000,38800000,23800000,No,0,train
+The expandables 4,September,9,2023,4/10,Action,12,Yes,1,100000000,37900000,-62100000,No,0,train
+Smugglers,July,7,2023,6/10,Action,12,No,0,15000000,36850000,21850000,No,0,train
+Anatomy of a fall,August,8,2023,8/10,Drama,9,No,0,9000000,36000000,27000000,No,0,train
+Priscilla,March ,3,2023,6/10,Musical,3,Yes,1,20000000,33100000,13100000,No,0,train
+Book club: the next chapter,September,9,2023,5/10,Romance,10,Yes,1,20000000,29000000,9000000,No,0,train
+Jawan,September,9,2023,7/10,Action,12,Yes,1,38000000,28400000,-9600000,No,0,train
+Reinfield,April,4,2023,6/10,Horror,1,Yes,1,65000000,26450000,-38550000,No,0,train
+The challenge,August,8,2023,6/10,Sci-Fi,4,No,0,11000000,26000000,15000000,No,0,train
+Perfect days,May,5,2023,7/10,Drama,9,Yes,1,14000000,25500000,11500000,No,0,train
+American fiction,August,8,2023,6/10,Comedy,11,No,0,10000000,22450000,12450000,No,0,train
+The covenant,February,2,2023,6/10,Drama,9,Yes,1,55000000,21940000,-33060000,No,0,train
+Champions,May,5,2023,6/10,Comedy,11,No,0,10000000,21890000,11890000,No,0,train
+"Are you there god? Its me, margaret.",April,4,2023,6/10 ,Drama,9,No,0,30000000,21450000,-8550000,No,0,train
+Saltburn,September,9,2023,6/10,Thriller,5,Yes,1,20000000,21000000,1000000,No,0,train
+Dumb money,September,9,2023,6/10,Biography,2,Yes,1,30000000,20700000,-9300000,No,0,train
+All of us strangers,January,1,2023,6/10,Romance,10,No,0,5000000,20250000,15250000,No,0,train
+The blackening,May,5,2023,6/10,Horror,1,No,0,5000000,18000000,13000000,No,0,train
+Inside out 2,june,6,2024,7/10,Comedy,11,No,0,200000000,1698863816,1498863816,Yes,1,test
+Deadpool & Wolverine,july ,7,2024,7/10,Action,12,Yes,1,200000000,1338071348,1138071348,Yes,1,test
+Moana 2,November,11,2024,6/10,Animation,8,Yes,1,150000000,1059161122,909161122,Yes,1,test
+Despicable me 4,July,7,2024,6/10,Animation,8,Yes,1,100000000,971343475,871343475,Yes,1,test
+Wicked,November,11,2024,7/10,Fantasy,7,Yes,1,150000000,755200381,605200381,Yes,1,test
+Furiosa: A Mad Max Saga,May,5,2024,7/10,Action,12,Yes,1,168000000,174287546,6287546,No,0,test
+Kraven the Hunter,December,12,2024,5/10,Sci-fi,4,No,0,110000000,60011428,-49988572,No,0,test
+Fly me to the Moon,July,7,2024,6/10,Romance,10,Yes,1,100000000,38198351,-61801649,No,0,test
+Borderlands,August,8,2024,4/10,Sci-fi,4,Yes,1,115000000,32938296,-82061704,No,0,test
+Megalopolis,September,9,2024,4/10,Drama,9,Yes,1,120000000,12251430,-107748570,No,0,test
